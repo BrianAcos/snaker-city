@@ -13,7 +13,7 @@ export const getProducts = (page) => async (dispatch) => {
 export const getProduct = (id) => async (dispatch) => {
     dispatch(request_product());
     const response = await fetch("https://snaker-city.com/products");
-    const product = response.data.find((item) => item.id == id);
+    const product = response.data.find((item) => item.id === id);
 
     return dispatch({ type: "set_product", payload: product });
 };

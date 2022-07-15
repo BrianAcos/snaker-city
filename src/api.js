@@ -5,7 +5,7 @@ const products = {
   pages: 3,
   data: [
     {
-      id: 1,
+      id: "1",
       brand: "Nike",
       model: "Air Force",
       color: { name: "Blanco", code: "#000000" },
@@ -16,7 +16,7 @@ const products = {
       sizes: [{ size: 39, cuantity: 4 }, { size: 40, cuantity: 2 }, { size: 41, cuantity: 1 }, { size: 42, cuantity: 3 }, { size: 43, cuantity: 3 }, { size: 44, cuantity: 2 }],
     },
     {
-      id: 2,
+      id: "2",
       brand: "Nike",
       model: "SB Blazer",
       color: { name: "Verde", code: "#008000" },
@@ -27,7 +27,7 @@ const products = {
       sizes: [{ size: 39, cuantity: 4 }, { size: 40, cuantity: 2 }, { size: 41, cuantity: 1 }, { size: 42, cuantity: 3 }, { size: 43, cuantity: 3 }, { size: 44, cuantity: 2 }],
     },
     {
-      id: 3,
+      id: "3",
       brand: "Nike",
       model: "Air Max 97",
       color: { name: "Azul", code: "#" },
@@ -38,7 +38,7 @@ const products = {
       sizes: [{ size: 39, cuantity: 4 }, { size: 40, cuantity: 2 }, { size: 41, cuantity: 1 }, { size: 42, cuantity: 3 }, { size: 43, cuantity: 3 }, { size: 44, cuantity: 2 }],
     },
     {
-      id: 4,
+      id: "4",
       brand: "Nike",
       model: "Free Run 5.0",
       color: { name: "Azul", code: "#0000FF" },
@@ -49,7 +49,7 @@ const products = {
       sizes: [{ size: 39, cuantity: 4 }, { size: 40, cuantity: 2 }, { size: 41, cuantity: 1 }, { size: 42, cuantity: 3 }, { size: 43, cuantity: 3 }, { size: 44, cuantity: 2 }],
     },
     {
-      id: 5,
+      id: "5",
       brand: "Nike",
       model: "Dunk Low",
       color: { name: "Negro", code: "#FFFFFF" },
@@ -60,7 +60,7 @@ const products = {
       sizes: [{ size: 39, cuantity: 4 }, { size: 40, cuantity: 2 }, { size: 41, cuantity: 1 }, { size: 42, cuantity: 3 }, { size: 43, cuantity: 3 }, { size: 44, cuantity: 2 }],
     },
     {
-      id: 6,
+      id: "6",
       brand: "Nike",
       model: "Air Force",
       color: { name: "Blanco", code: "#000000" },
@@ -71,7 +71,7 @@ const products = {
       sizes: [{ size: 39, cuantity: 4 }, { size: 40, cuantity: 2 }, { size: 41, cuantity: 1 }, { size: 42, cuantity: 3 }, { size: 43, cuantity: 3 }, { size: 44, cuantity: 2 }],
     },
     {
-      id: 7,
+      id: "7",
       brand: "Nike",
       model: "SB Blazer",
       color: { name: "Verde", code: "#008000" },
@@ -82,7 +82,7 @@ const products = {
       sizes: [{ size: 39, cuantity: 4 }, { size: 40, cuantity: 2 }, { size: 41, cuantity: 1 }, { size: 42, cuantity: 3 }, { size: 43, cuantity: 3 }, { size: 44, cuantity: 2 }],
     },
     {
-      id: 8,
+      id: "8",
       brand: "Nike",
       model: "Air Max 97",
       color: { name: "Azul", code: "#" },
@@ -93,7 +93,7 @@ const products = {
       sizes: [{ size: 39, cuantity: 4 }, { size: 40, cuantity: 2 }, { size: 41, cuantity: 1 }, { size: 42, cuantity: 3 }, { size: 43, cuantity: 3 }, { size: 44, cuantity: 2 }],
     },
     {
-      id: 9,
+      id: "9",
       brand: "Nike",
       model: "Free Run 5.0",
       color: { name: "Azul", code: "#0000FF" },
@@ -104,7 +104,7 @@ const products = {
       sizes: [{ size: 39, cuantity: 4 }, { size: 40, cuantity: 2 }, { size: 41, cuantity: 1 }, { size: 42, cuantity: 3 }, { size: 43, cuantity: 3 }, { size: 44, cuantity: 2 }],
     },
     {
-      id: 10,
+      id: "10",
       brand: "Nike",
       model: "Dunk Low",
       color: { name: "Negro", code: "#FFFFFF" },
